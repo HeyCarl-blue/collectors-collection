@@ -1,0 +1,451 @@
+:root {
+  --bg-1: #dad7c8;
+
+  --text-1 : #222222;
+
+  --gray: #cfac91;
+  --gold: #c2963d;
+
+  --accent-1: #733b73;
+  --accent-2: #6e292c;
+  --accent-3: #b1642c;
+  --accent-4: #ffd58c;
+  --accent-5: #31473a;
+  --accent-6: #305c7d;
+}
+
+*,
+::after,
+::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.6;
+  background-color: var(--bg-1);
+}
+
+#main-nav {
+  font-family: "Alegreya", serif;
+  overflow: visible;
+}
+
+main h1 {
+  font-family: "Alegreya", serif;
+}
+
+.logo img {
+  pointer-events: none;
+}
+
+.nav-link {
+  position: relative;
+  text-decoration: none;
+}
+
+.nav-link:not(.logo):hover::after,
+.nav-link:not(.logo).active::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100px;
+  height: 1px;
+  background-color: var(--text-1);
+}
+
+.nav-link:not(.logo):hover::before,
+.nav-link:not(.logo).active::before {
+  content: '◆';
+  position: absolute;
+  bottom: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 12px;
+  z-index: 1;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 350px);
+  gap: 16px;
+  justify-content: center;
+  padding: 16px;
+}
+
+.card-fixed {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  height: 520px;
+  cursor: pointer;
+  border-radius: 0.3em;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-align: center;
+}
+
+.card-fixed:hover {
+    transform: translateY(-0.2em) scale(1.02);
+}
+
+.card-img {
+  width: 100%;
+  height: calc(350px * 9 / 16);
+  object-fit: cover;
+  border-radius: 0.3em 0.3em 0 0;
+}
+
+.card-text {
+  flex: 1;
+  height: auto;
+}
+
+.card-title {
+  font-family: "Alegreya", serif;
+  position: relative;
+  height: 2em;
+  overflow-x: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  flex-shrink: 0;
+}
+
+.card-title::after {
+  content: '';
+  position: absolute;
+  bottom: 4px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 200px;
+  height: 1px;
+  background: linear-gradient(to right, var(--text-1) 0%, var(--text-1) 45%, transparent 45%, transparent 55%, var(--text-1) 55%, var(--text-1) 100%);
+}
+
+.card-title::before {
+  content: '❖';
+  position: absolute;
+  bottom: -4px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 12px;
+}
+
+.card-desc {
+  position: relative;
+  height: 180px;
+  text-align: justify;
+  word-wrap: break-word;
+  overflow-y: auto;
+  overflow-x: visible;
+  hyphens: auto;
+  padding-right: 1em;
+  /* border: 0.1em solid var(--text-1);
+  border-radius: 0.3em; */
+}
+
+.card-footer {
+  height: 2.5em;
+  /* background-color: var(--gray); */
+  border-radius: 0 0 0.3em 0.3em;
+  padding-bottom: 1em;
+}
+
+.card-tag-list {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  white-space: nowrap;
+  overflow-x: scroll;
+  padding-bottom: 1em;
+}
+
+.card-tag-list li {
+  padding: 0.1em 0.25em 0.1em 0.25em;
+  margin: 0 0.3em 0 0.3em;
+  text-decoration: none;
+  border: 0.1em solid var(--gray);
+  border-radius: 1.2em;
+  background-color: var(--gray);
+}
+
+.card-tag-list li:hover {
+  background-color: transparent;
+}
+
+/* Sidebar styles */
+#sidebar {
+  position: sticky;
+  top: 5em;
+  border-radius: 0.3em;
+  background-color: var(--bg-1);
+  border: 0.15em solid var(--gold);
+  box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+  overflow-y: auto;
+  max-height: calc(100vh - 8em);
+}
+
+#sidebar-content {
+  padding: 1em;
+  margin-left: 0.5em;
+  max-height: calc(100vh - 120px);
+}
+
+/* TOC specific styles */
+.toc {
+  list-style: none;
+  padding: 0;
+  max-height: (100vh - 120px);
+  overflow-y: auto;
+}
+
+.toc ul {
+  list-style: none;
+  padding-left: 1em;
+  border-left: 0.1em solid var(--gray);
+}
+
+.toc a {
+  color: var(--text-1);
+  text-decoration: none;
+  display: inline-block;
+  padding: 0.25em;
+  font-size: 0.9em;
+  border-left: 2px solid transparent;
+  padding-left: 0.5em;
+  transition: all 0.3s ease;
+  border-radius: 0.3em;
+}
+
+.toc a:hover {
+  background-color: rgba(212, 175, 55, 0.15);
+  color: var(--gold);
+  transform: translateX(0.2em);
+  box-shadow: 0 0.1em 0.3em rgba(0, 0, 0, 0.2);
+}
+
+#sidebar-button-open,
+#sidebar-button-close {
+  background-color: var(--gold);
+  border: 0.1em solid var(--gold);
+  padding: 0.25em 0.8em;
+  cursor: pointer;
+}
+
+#sidebar-button-open {
+  position: sticky;
+  border-radius: 0.3em;
+  top: 2em;
+}
+
+#sidebar-button-close {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+}
+
+#sidebar-button-open:hover, #sidebar-button-close:hover {
+  background-color: var(--bg-1);
+  color: var(--text-1);
+}
+
+@media (max-width: 600px) {
+  #main-nav {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: stretch !important;
+    padding: 0 !important;
+  }
+  
+  .nav-link {
+    text-align: center;
+    margin: 0 !important;
+    border-bottom: 1px solid var(--gold);
+  }
+  
+  .nav-link:last-child {
+    border-bottom: none;
+  }
+  
+  .nav-link:not(.logo)::after {
+    display: none;
+  }
+  
+  .nav-link:not(.logo) {
+    box-shadow: none;
+  }
+  
+  .logo {
+    align-self: center;
+    border-bottom: 2px solid var(--gold);
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 992px) {
+  #content-main {
+    margin-left: 0 !important;
+  }
+}
+
+/* 
+===============GENERATED DOCUMENT STYLES================
+*/
+
+#markdown-content {
+    font-family: "Atkinson Hyperlegible", sans-serif;
+    line-height: 1.6;
+}
+
+/* Headers */
+#markdown-content h1 {
+  text-align: center;
+    font-family: "Alegreya", serif;
+    font-size: 2.5em;
+    margin: 1.5em 0 1em 0;
+    color: var(--accent-3);
+    border-bottom: 0.1em solid var(--accent-3);
+    padding-bottom: 0.3em;
+}
+
+#markdown-content h2 {
+    font-family: "Alegreya", serif;
+    font-size: 1.8em;
+    margin: 1.3em 0 0.8em 0;
+    color: var(--accent-2);
+}
+
+#markdown-content h3 {
+    font-family: "Alegreya", serif;
+    font-size: 1.4em;
+    margin: 1.2em 0 0.6em 0;
+    color: var(--accent-6);
+}
+
+/* #markdown-content h4 {
+    font-size: 1.2em;
+    margin: 1em 0 0.5em 0;
+    color: var(--accent-6);
+    font-weight: 600;
+}
+
+#markdown-content h5, #markdown-content h6 {
+    font-size: 1.1em;
+    margin: 0.8em 0 0.4em 0;
+    color: var(--accent-1);
+    font-weight: 600;
+} */
+
+/* First letter styling */
+/* #markdown-content h1::first-letter,
+#markdown-content h2::first-letter {
+    font-family: 'Ruritania', sans-serif;
+    font-size: 1.3em;
+} */
+
+/* Paragraphs */
+#markdown-content p {
+    margin: 1em 0;
+    text-align: justify;
+}
+
+/* #markdown-content p::first-letter {
+  font-family: 'Ruritania', sans-serif;
+  font-size: 2em;
+  float: left;
+  line-height: 1;
+  margin-right: 0.08em;
+  margin-top: 0.05em;
+  height: 2em;
+} */
+
+/* Lists */
+#markdown-content ul, #markdown-content ol {
+    margin: 1em 0;
+    padding-left: 2em;
+}
+
+#markdown-content li {
+    margin: 0.3em 0;
+}
+
+/* Blockquotes */
+#markdown-content blockquote {
+    border-left: 0.3em solid var(--gold);
+    background: rgba(212, 175, 55, 0.1);
+    margin: 1.5em 0;
+    padding: 1em 1.5em;
+    border-radius: 0 0.3em 0.3em 0;
+    font-style: italic;
+}
+
+/* Tables */
+#markdown-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5em 0;
+    border: 0.15em solid var(--gold);
+    border-radius: 0.3em;
+    overflow: hidden;
+}
+
+#markdown-content th {
+    background: var(--gold);
+    padding: 0.8em;
+    font-weight: 600;
+}
+
+#markdown-content td {
+    padding: 0.6em;
+    border-bottom: 1px solid var(--gray);
+}
+
+#markdown-content tr:nth-child(even) {
+    background: rgba(212, 175, 55, 0.05);
+}
+
+/* Code */
+#markdown-content code {
+    background: rgba(40, 40, 40, 0.1);
+    padding: 0.1em 0.3em;
+    border-radius: 0.2em;
+    font-family: monospace;
+    font-size: 0.9em;
+}
+
+#markdown-content pre {
+    background: var(--bg-1);
+    color: var(--text-1);
+    padding: 1em;
+    border-radius: 0.3em;
+    overflow-x: auto;
+    margin: 1em 0;
+}
+
+#markdown-content pre code {
+    background: none;
+    padding: 0;
+}
+
+/* Images */
+#markdown-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 0.3em;
+    box-shadow: 0 0.2em 0.6em rgba(0, 0, 0, 0.3);
+    margin: 1em 0;
+}
+
+/* Horizontal rules */
+#markdown-content hr {
+    border: none;
+    height: 0.2em;
+    background: linear-gradient(90deg, transparent, var(--gold), transparent);
+    margin: 2em 0;
+}
