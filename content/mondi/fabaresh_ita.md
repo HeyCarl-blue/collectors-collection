@@ -3,20 +3,19 @@
 # Fabaresh
 
 Il pianeta di *Fabaresh* è un luogo misterioso e arcano.
-La magia proviene da una forza invisibile e onnipresente chiamata *Trama*. Non si sa da dove provenga, ma si sa che è più potente se supportata da forti emozioni.
+La magia è generata da una forza invisibile e onnipresente chiamata *Trama*. Non si sa da dove provenga, ma si sa che è più potente se supportata da forti emozioni.
 
-Questa Trama è stata spesso venerata come un dio, a volte anche impersonificata nelle storie, e da queste storie sono nate effettivamente le divinità che la governano. Perché il vero potere della Trama sono proprio le storie e i racconti.
+Questa Trama è stata spesso venerata come un dio, a volte anche impersonificata nelle storie, e da queste storie sono nate effettivamente le divinità che la rappresentano. Perché il vero potere della Trama è il volere e la convinzione collettiva.
+Ci sono storie di una divinità che appare di rado sotto le più svariate forme ed illumina ai mortali le loro emozioni più profonde e nascoste e il volere inconscio della collettività, non sempre queste conoscenze sono bene accette.
 
 # Timeline
 
 Secondo il calendario globale, al presente Fabaresh si trova all'anno 100 dell'*Era della Fattura*.
-Gli storici catalogano più di duecento ere, che variano dall'essere composte da qualche anno (la più corta ha soli 5 anni) o da molti secoli (la più lunga ne ha 1008). L'anno zero di ogni era è scelto dopo da TODO:societàstorica in corrispondenza di eventi considerati talmente fondamentali che cambiano il corso della storia o della vita quotidiana dei vari popoli di Fabaresh.
-
-Gli eventi principali che hanno formato la storia di Fabaresh sono:
+Gli storici catalogano più di duecento ere, che variano dall'essere composte da qualche anno (la più corta ha soli 5 anni) o da molti secoli (la più lunga ne ha 1008). L'anno zero di ogni era è scelto postumo da *TODO:societàstorica* in corrispondenza di eventi considerati talmente fondamentali che cambiano il corso della storia e della vita quotidiana dei vari popoli di Fabaresh.
 
 ## L'Ascesa (Anno 0 dell'Era Divina)
 
-I dèi di Fabaresh prendono vita grazie alle storie scritte su di loro. La Trama, venerata dalla maggior parte dei popoli del pianeta, prende forma negli dèi del Pantheon attuale.
+I dèi di Fabaresh prendono vita grazie alle storie scritte su di loro e alla fede su di essi da parte dei mortali. La Trama, venerata dalla maggior parte dei popoli del pianeta, prende forma negli dèi del Pantheon attuale e, se si crede nelle storie, in una strana e segreta entità che appare a individui particolari e gli offre la benedizione e la maledizione di essere parte delle emozioni profondamente radicate dai loro simili.
 
 ## La Discesa (Anno 0 dell'Era Infernale)
 
@@ -24,38 +23,41 @@ Così come gli dèi vennero creati a partire dalle storie e dalle mitologie dei 
 
 ## Il Tetro Rituale (Anno 0 dell'Era Rituale)
 
-Millenni orsono il *Circolo dei Presagi* sviluppò un rituale per infondere la Trama generata dalle loro fiabe nelle fiabe stesse, infondendogli la forza di autodefinirsi.
-In queste storie loro prendono il ruolo dei potenti antagonisti, donandogli quindi poteri quasi divini.
+Secoli orsono il *Circolo dei Presagi* sviluppò un rituale per infondere la Trama generata dalle loro fiabe nelle fiabe stesse, infondendogli la forza di autodefinirsi.
+In queste storie loro prendono il ruolo dei potenti antagonisti, donandogli quindi poteri da rivaleggiare quelli degli dèi.
 
-Ora i membri del Circolo vagano per le terre, per i loro inscrutabili, cupi motivi.
+Ora i membri del Circolo vagano per le terre, adempiendo i loro inscrutabili, cupi obiettivi.
 
 ## Il Primo Artificio (Anno 0 dell'Era Apocriptica)
 
-Nell'anno zero dell'*Era Apocriptica* (la più lunga delle ere di Fabaresh), l'infernale *Veel'tasen* riuscì ad unire la scienza dell'alchimia con il potere magico della Trama, creando il primo artificio. La tecnica usata prende il nome di *Scienza Apocriptica*, che da quel momento viene usata ed espansa ad un ritmo sorprendente ed integrata nella vita quotidiana di cittadini e intere società. Ad oggi creazioni apocriptiche si possono trovare dappertutto, anche se c'è stato un forte rallentamento dopo la *Frattura*. In ogni caso per tutta Fabaresh si possono trovare città e villaggi con sistemi idrici più o meno automatizzati dalla scienza apocriptica, navi volanti, grandi zeppelin da guerra e da trasporto, navi con la polena parlante, ecc...
+Nell'anno zero dell'*Era Apocriptica*, l'infernale *Veel'tasen* riuscì ad unire la scienza dell'alchimia con il potere magico della Trama, creando il primo artificio. La tecnica usata prende il nome di *Scienza Apocriptica*, che da quel momento viene usata ed espansa ad un ritmo sorprendente ed integrata nella vita quotidiana di cittadini e intere società. Ad oggi creazioni apocriptiche si possono trovare dappertutto, anche se c'è stato un forte rallentamento dopo la *Frattura*. In ogni caso per tutta Fabaresh si possono trovare città e villaggi con sistemi idrici più o meno automatizzati dalla scienza apocriptica, navi volanti, grandi zeppelin da guerra e da trasporto, navi con la polena parlante, ecc...
 
-Il primo artificio era *Il Sole Fantasma*. Una gigantesca sfera di metallo, cristalli e storie scritte. Questo sole ruotava intorno al pianeta e offriva a chiunque il potere di comandare la trama a suo piacimento, dando vita alla moderna forma di magia.
+Il primo artificio era *Il Sole Fantasma*. Una gigantesca sfera di metallo, cristalli e storie scritte. Questo sole ruotava intorno al pianeta e offriva a chiunque il potere di comandare la Trama a suo piacimento, dando vita alla moderna forma di magia.
 
 ## Frattura (Anno 0 dell'Era della Frattura)
 
 Alla fine dell'Era Apocriptica, *Ivette, la Strega Malvagia* del Circolo dei Presagi, scrisse *Il ladro dell'eterna ombra*, una fiaba che parla di un ladro che nella sua arroganza, riesce a rubare il sole e a gettare il mondo nell'oscurità.
-Questa fiaba diventò realtà nel peggiore dei modi quando effettivamente la gigantesca sfera apocriptica si frantumò in circostanze misteriose. Tutt'ora, cento anni dopo, il motivo per cui si distrusse rimane imperscrutabile.
-Molti sono convinti che la fiaba stessa abbia causato la distruzione del sole, visti i precedenti del Circolo dei Presagi, altri affermano che *Il ladro dell'eterna ombra* era una storia premonitrice, altri ancora che si tratti soltanto di una coincidenza, dopotutto nella storia il sole non era uno artificiale e viene rubato non distrutto.
+Questa fiaba diventò realtà nel peggiore dei modi quando la gigantesca sfera apocriptica si frantumò in circostanze misteriose. Tutt'ora, cento anni dopo, il motivo per cui si distrusse rimane imperscrutabile.
+Molti sono convinti che la fiaba stessa abbia causato la distruzione del sole, visti i precedenti del Circolo dei Presagi, altri affermano che *Il ladro dell'eterna ombra* era una storia premonitrice, altri ancora che si tratti soltanto di una coincidenza, dopotutto nella storia il sole non era artificiale e non venne neanche distrutto, ma rubato.
 
 Rimane il fatto che il sole è frantumato e con esso la magia.
 Ma i maghi non si diedero per vinti e scoprirono che i pezzi del sole frantumato potevano essere usati per veicolare la Trama e manipolarla quasi come si faceva un tempo, prima della Frattura.
 Per questo i maghi moderni devono utilizzare focus arcani che provengono in qualche modo dal Sole Fantasma.
 
-Molti invece hanno preso l'evento della Frattura come un segno divino o provvidenziale. Come una storia con la morale che i popoli si sono spinti troppo in là con la Scienza Apocriptica e che quindi è necessario tornare a una vita più semplice, a contatto con la natura e dove l'unica magia è quella di un bel racconto.
+Molti invece hanno preso l'evento della Frattura come un segno divino o provvidenziale. Come una storia con una morale, e cioè che i popoli si sono spinti troppo in là con la Scienza Apocriptica, abbandonando la magia innata della natura, e che quindi è necessario tornare a una vita più semplice, anche più selvaggia, dove l'unica magia è quella degli animali e delle piante, e di un bel racconto.
+
+In pochi conoscono il segreto del Sole Fantasma. Il costo in sangue che Veel'Tasen decise fosse giusto pagare per donare al mondo la tecnologia e la magia moderna.
 
 # Pantheon
 
-In Fabaresh è la credenza comune che genera il potere più grande. Più popoli creano e contribuiscono alla mitologia divina, più è probabile che le loro convinzioni creino effettivamente una personificazione di queste creature.
+In Fabaresh è la credenza comune che genera il potere più grande. Più popoli creano e contribuiscono alla mitologia divina, più è probabile che le loro convinzioni materializzino effettivamente una personificazione di queste creature.
 
 ## Dèi Principali
 
 I principali dèi di Fabaresh sono nati dalla venerazione dei popoli mortali verso la Trama. Questi dèi sono personificazioni degli elementi comuni nelle storie, fiabe, favole, canzoni e racconti di qualsiasi tipo.
+Talvolta sono chiamati i *Vassalli della Trama*, perché nella loro unità, rappresentano le emozioni più potenti e che quindi generano una Trama più fitta ed efficace.
 
-### Nerea l'amorevole dèa dell'amore e del romanticismo
+### Nerea l'amorevole dèa della passione e del romanticismo
 
 Nerea vive nelle pagine di un libro romantico, tra le righe in rima che parlano di amore, nelle lettere disperate scambiate tra amanti separati e anche nel piacere di pagine che descrivono atti più carnali.
 
@@ -103,11 +105,13 @@ Il brivido di qualcosa che non va, di una persona che non si comporta come dovre
 
 Le Scienze Apocriptiche hanno donato ai mortali più motivi per aver paura della società, del futuro, della propria stessa anima. Per questo nel corpo di Telchek stesso sembrano essere cresciuti arti metallici, o anche teste mostruose e artificiali. Maschere inespressive che sembrano scandagliare la moralità stessa dei mortali tanto sfortunati dal guardarle.
 
+### Balduk l'allegro dio del sorriso e della felicità
+
+TODO
+
 ## Creature Semidivine
 
-Spesso eroi e figure storiche diventano talmente importanti da venir immortalati in statue, racconti e canzoni e sono così ben visti dalla popolazioni generale che prendono di nuovo vita in un corpo ideallizzato e con poteri talmente grandi da essere considerati dei semidèi.
-
-Di questa categoria fanno parte anche creature inventate ma talmente riverite da generare una loro personificazione.
+Spesso eroi e figure storiche come fantastiche diventano talmente importanti nell'immaginario comune da venir immortalati in statue, racconti e canzoni e sono così ben visti o temuti dalla popolazione generale, che prendono di nuovo vita in un corpo ideallizzato e con poteri talmente grandi da essere considerati dei semidèi.
 
 Una piccola lista dei principali:
 
@@ -206,8 +210,27 @@ La sanguinosa storia dell'impero e la sua chiusura storica verso le nazioni e le
 
 Nel *Trono Fantasma* siede l'attuale imperatrice, *Kyoki Kura*. Spesso considerata la mortale più potente al mondo, l'imperatrice ha sempre l'ultima parola sulle scelte politiche dell'impero, ma un territorio così grande non può essere gestito da un'unica persona, infatti l'impero Kura è diviso in Distretti ognuno comandato dal suo Shogun, nominato dall'imperatrice in persona insieme all'*Alto Consiglio*.
 
-### Landmarks
+### Punti d'interesse
 
 **Raku-tan** è la capitale dell'impero. Questa gigantesca città rivela lo stile classico dell'impero Kura. Aeronavi e zeppelin sorvolano alte abitazioni del caratteristico stile di questa cultura, inondate dalle luminose ma tetre luci apocriptiche di segnali, pubblicità, carri automatici ecc...
 
 la **Palude delle Anime** è un grande acquitrino nel sud-ovest del territorio dell'impero. Le leggende affermano che le acque stagnanti attirino spiriti e demoni. Rappresentano una meta molto popolare per avventurieri, attratti da tomi di storie leggendarie, rovine antiche e mostri pericolosi.
+
+# Stirpi
+
+Il mondo di Fabaresh è casa di innumerevoli stirpi, culture e popoli. Nonostante molte stirpi hanno una una loro patria ancestrale, mortali di qualunque tipo si possono trovare tutto intorno alla superficie del pianeta. Spesso cambiati dalla combinazione di secoli e il territorio stesso.
+
+## Elfi
+
+Gli Elfi sono magicamente collegati al territorio in cui vivono. Le uniche caratteristiche fisiche comuni a tutti gli elfi sono la loro grazia, la loro bellezza e le loro lunghe orecchie a punta.
+
+**Società degli Elfi**
+Gli *Elfi Urbani* sono nati e cresciuti in città di medie dimensioni, o nelle grandi metropoli tecnologiche di Fabaresh. Il loro aspetto è molto simile a quello di umani alti, aggraziati e belli, con le loro iconiche, lunghe orecchie a punta.
+
+Gli *Elfi Silvani* sono nati e cresciuti in comunità a stretto contatto con la natura, molto spesso i boschi, e si portano con sé un marchio di questa vicinanza alla natura. Che sia pelle di corteccia, corna di cervo o di capra, piedi digitigradi o orecchie e coda da volpe, sono sempre e comunque alti umanoidi con lunghe orecchie a punta.
+
+### Lignaggi degli Elfi
+
+Gli
+
+#### 
