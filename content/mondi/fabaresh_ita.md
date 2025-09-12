@@ -159,7 +159,64 @@ TODO:(Meccaniche - Cayden Cailean)
 
 ## Lord delle Profondità
 
-Nell'*Era Malefica*, i membri del *Culto Malefir* unirono tutto il loro risentimento verso gli Dèi e la Trama in una serie di libri profani che chiamarono *Malefir Lubris*. In questi testi vennero descritte creature dai poteri tanto intensi quanto raccapriccianti, nati come l'opposto dei Vassalli della Trama, queste creature vivono nelle *Strade del Crepuscolo*, una serie che sembra infinita di tunnel e caverne che ricopre l'intera 
+Nell'*Era Malefica*, i membri del *Culto Malefir* unirono tutto il loro risentimento verso gli Dèi e la Trama in una serie di libri profani che chiamarono *Malefir Lubris*. In questi testi vennero descritte creature dai poteri tanto intensi quanto raccapriccianti, nati come l'opposto dei Vassalli della Trama, queste creature vivono nelle *Strade del Crepuscolo*, una serie apparentemente infinita di tunnel e caverne che si snodano lungo l'intero sottosuolo del pianeta. Molti dicono che arrivano fino al cuore del mondo, ma nessuno è mai riuscito ad avvicinarsi abbastanza da saperlo per certo.
+
+All'interno delle Strade del Crepuscolo, i Lord delle Profondità hanno fondato i loro reami che si contendono in continuazione.
+
+I Lord delle Profondità, insieme ai loro Servi, si cibano della Trama, e quindi delle emozioni dei mortali. Per questo cercano di instaurare un rapporto con essi, sotto forma di contratti o sotterfugi. I tesori e i poteri che promettono ai mortali sono talmente ghiotti, che nonostante sia risaputo della pericolosità di queste creature, molti mortali li cercano di loro spontanea volontà.
+
+### Lithis
+
+Nata come nemica di Nerea l'amorevole, *Lithis* è la regina di *Cares* e dei suoi *Servi della Passione*. Rappresenta la lussuria portata ai suoi limiti. Lithis e i suoi sudditi sono i Servi più accettati nel mondo dei mortali. Si cibano del piacere e della passione, trasformando le loro vittime in gusci vuoti, incapaci di provare piacere, ma raramente arrivano a quel punto. I Servi della Passione sanno che sarebbe uno spreco trasformare quella che potrebbe essere una fonte di cibo fissa in questo modo, perciò, anche se ci sono Servi della Passione incuranti delle vite dei mortali, spesso instaurano un rapporto puramente fisico con loro, senza esagerare nel cibarsi.
+
+TODO:(Meccaniche - Urgathoa)
+
+### Esoldio
+
+Nato come nemico di Umbral l'oscura, *Esoldio* comanda il *Deserto Illuminato*, dove lui e i suoi *Servi della Vergogna* cacciano i mortali che ci finiscono. I Servi della Vergogna sono creature alate, e si nutrono di segreti e di qualsiasi informazione nella sfera privata. Si divertono a cacciare le loro vittime dall'alto, mentre fuggono in un deserto senza una vera possibilità di nascondersi. Una volta catturati, ai mortali vengono trasmesse immagini del momento della rivelazione dei loro segreti più imbarazzanti e disonorevoli, dopodiché vengono rilasciati e la caccia riparte da capo.
+
+TODO:(Meccaniche - Asmodeus)
+
+### Grivonash
+
+Nato come nemico di Seraphiel la sapiente, *Grivonash* comanda *Forodin*, la Città della Follia. Il suo regno è un labirinto gigantesco di rovine di innumerevoli città, corrotte da questa strana massa rossiccia e viva, sempre pulsante, che veicola un liquido nero-rosso che corrompe la mente di qualunque essere lo beva o semplicemente lo inali. I suoi sudditi, i *Servi della Follia* giocano con il cervello delle loro vittime, nutrendosi della loro sanità mentale.
+
+TODO:(Meccaniche - Lamshtu)
+
+### Deven Vaneris
+
+Nato come nemico di Onirus il drammaturgo, *Deven Vaneris* regna sul *Buio Infinito*, una distesa cupa e scura. Le uniche illuminazioni sono formate da piccole creature di luce che rischiarano le strade che arrivano a *Maren*, la capitale degli incubi. I mortali che viaggiano la strada sanno dei terrori che li attendono se entrano nelle porte della città, e i *Servi degli Incubi* si nutrono della paura che provano lungo tutto il percorso. Spesso i mortali fuggono dalle strade per cercare rifugio nell'oscurità, ma trovano soltanto incubi che si fanno sempre più terrificanti. Alla fine ritornano a seguire la strada di loro spontanea volontà.
+
+(TODO: Meccaniche - Norgober)
+
+### Hon Ges
+
+Nato come nemico di Kilgarin l'ardito. *Hon Ges* è il Lord di *Kube*, la capitale dei *Servi della Codardia*. Hon Ges e i suoi sudditi si cibano del senso di onore e di coraggio. Gli obiettivi più appetitosi sono figure militari e politiche che comandano grande rispetto per gli umani. Non c'è niente di meglio per un Servo della Codardia di trasformare un rispettato e coraggioso veterano di guerra in un vecchio tremante e patetico, impaurito della sua stessa ombra.
+
+TODO:(Meccaniche)
+
+### Volzikar
+
+Nato come nemico di Telchek l'orribile, *Volzikar* comanda i *Servi della Pestilenza*. Il regno della pestilenza è una foresta formata da funghi giganti, salici lucenti, e altra flora inusuale. I Servi della Pestilenza si nutrono del senso di sicurezza dei mortali. La foresta di Volzikar è costruita apposta per dare un senso di calma e tranquillità e attirare i mortali nel rifugiarcisi in mezzo alla pericolosità delle Strade del Crepuscolo. In questo periodo, i Servi della Pestilenza li infettano, spesso trasformando loro stessi in virus, e uccidono la vittima piano piano, facendo attenzione a non allarmarli troppo della loro presenza nel loro corpo.
+
+TODO: (Meccaniche)
+
+### Balzorin
+
+Nato come nemico di Balduk l'allegro, *Balzorin* comanda il regno dei *Servi della Violenza*. Questi servi si nutrono della felicità dei mortali. Offrono spesso ricchezze e promesse di ogni tipo ai mortali, solo per ingannarli nel momento in cui finalmente riescono a ottenere ciò che più vogliono, e riuscire a rinchiuderli nella *Capitale delle Catene*, una gigantesca prigione dove i Servi della Violenza, forzano vittime che sono riusciti a catturare a ricordare sadicamente dei loro successi nel mondo in superficie.
+
+TODO:(Meccaniche)
+
+### Galgoth
+
+Si parla di un tomo andato perduto dei *Malefir Lubris*, nel quale veniva descritta una creatura talmente mostruosa e ripugnante, che persino i cultisti che scrissero il testo avevano talmente paura da strappare il libro e bruciarne le pagine, e non includerlo nel loro blasfemo rituale che diede vita ai Lord delle Profondità.
+
+Nonostante questo, in qualche modo, l'idea di *Galgoth* è sopravvisuta alle ere, tanto che racconti della creatura esistono tutt'ora, anche se nascosti e spesso andati perduti in rovine o chiusi dietro meccanismi e magie talmente complicate che probabilmente neanche chi le creò può romperle.
+
+Secondo questi testi, *Galgoth* è una creatura amorfa, con un corpo gigantesco che racchiude il cuore del mondo di Fabaresh. Alla fine delle Strade del Crepuscolo, si arriva ad una landa che sembra infinita, formata da carne viva. Questo mostruoso paesaggio è sempre in cambiamento, e gigantesche bocche inumane si aprono e si chiudono casualmente, puntinando il soffice "terreno" di carne amorfa.
+Chiunque è abbastanza sfortunato da cadere in una di queste bocche, si ritrova in una caduta dolorosa e ripugnante lungo un tunnel di carne che dura giorni interi. Alla fine si ritroverà ad essere digerito per anni all'interno dello stomaco di Galgoth, insieme al nucleo stesso di Fabaresh.
+
+TODO:(Meccaniche)
 
 ## Elevati dalla Trama
 
@@ -175,9 +232,13 @@ La creatrice del Sole Fantasma e ideatrice dell'intera branca della Scienza Apoc
 
 Ora vaga tutto il mondo, seduta sul trono di *Spyre*, la sua città volante, con una missione chiara in testa ma che nessuno, a parte lei, conosce. I suoi fedeli più vicini affermano di vederla molto di rado perché praticamente rinchiusa nel suo laboratorio la maggior parte delle ore della giornata, e nelle sue rare apparizioni, sembra essere sempre annoiata, afflitta da una profonda tristezza.
 
+TODO: (Meccaniche)
+
 ### I Gemelli Inventori
 
 Durante l'era apocriptica, i nani gemelli *Druren* e *Vydda Caston* cominciarono il progetto della loro vita. Brillanti ingegneri apocriptici, misero a punto un mezzo che avrebbe viaggiato ininterrottamente lungo l'intera superficie di Fabaresh. Il progetto terminò con la costruzione del *Binario Infinito* e il *Vetrabul*, il treno che si ferma in ogni città di grande importanza. I gemelli inventori non viderono mai la conclusione del loro progetto, ultimato dopo la loro morte, ma il rispetto del resto del mondo fu talmente tanto che li riportarono in vita come Elevati dalla Trama.
+
+TODO: (Meccaniche)
 
 ### I Draghi Ancestrali
 
@@ -190,6 +251,8 @@ I draghi ancestrali sono i giganteschi draghi progenitori di questi enormi retti
 - **Dendeross** - Che secondo le leggende, dona ai draghi la capacità di parlare, ragionare e bramare.
 
 Questo è uno dei casi comuni di paradosso creato dalla Trama: I draghi esistono a Fabaresh da prima dell'avvento dei *Draghi Ancestrali*, ma le leggende create apposta per venerare creature tanto temibili, hanno dato vita ai tre draghi Elevati dalla Trama ed ora, se uno dei tre dovesse perire, anche il dono elargito alla sua specie sparirà. Ad esempio, se Avidragyll dovesse morire, il resto dei draghi non potrà più volare, nonostante il fatto che potessero benissimo farlo prima dell'esistenza di Avidragyll.
+
+TODO: (Meccaniche)
 
 ### La Corte dei Presagi
 
@@ -213,6 +276,8 @@ I membri della Corte sono:
 
 - **Ronforagno, l'innominabile**: Ronforagno prende la forma di una creatura della foresta o della palude in cui appare. Si dice che faccia finta di essere un principe o una principessa maledetta e che l'unico modo per farlo tornare alla sua forma originale sia con un bacio. Una volta baciato, però, Ronforagno ruba la fortuna della sua vittima. Per spezzare la maledizione bisogna dire a Ronforagno il suo vero nome. La storia che ha dato vita a questo personaggio si chiama *Ronforagno*.
 
+TODO:(Meccaniche)
+
 # Dizionario Geografico
 
 ## Repubbliche Libere di Vidnova
@@ -234,9 +299,9 @@ Le Repubbliche sono:
 
 - **Repubblica di Radon (Anno 51 Era Apocriptica)**
 
-- **Repubblica di Caston (Anno 431 Era Apocriptica)**: La popolazione di Nani nelle Repubbliche da anni si sentiva sotto-rappresentata nei riconoscimenti delle scienze apocriptiche, il tutto culminò con la morte dei gemelli Druran e Vydda Caston e con l'indifferenza delle repubbliche sulla loro memoria. Per questo nelle zone a maggioranza nanica, quest'ultimi si organizzarono per staccarsi e formare una nuova repubblica, nominata in onore dei due ingegneri luminari.
+- **Repubblica di Caston (Anno 131 Era Apocriptica)**: La popolazione di Nani nelle Repubbliche da anni si sentiva sotto-rappresentata nei riconoscimenti delle scienze apocriptiche, il tutto culminò con la morte dei gemelli Druran e Vydda Caston e con l'indifferenza delle repubbliche sulla loro memoria. Per questo nelle zone a maggioranza nanica, quest'ultimi si organizzarono per staccarsi e formare una nuova repubblica, nominata in onore dei due ingegneri luminari.
 
-- **Repubblica Meccanica (Anno 455 Era Apocriptica)**: Dopo la prima Materium *Promera*, il numero di artifici apocriptici che iniziarono a prendere coscienza aumentò a dismisura. Il sistema legale delle Repubbliche non era in grado di gestire questo evento improvviso, e così, dopo anni di revisioni legali che presero il nome di *Aggiunte sulla Materia e sulla Coscienza* (la più famosa delle quali fu la messa al bando della tecnica del *Taglio Apocriptico*), alla popolazione Materium, fu regalata il territorio che ora è diventata la sesta Repubblica (la Repubblica Meccanica).
+- **Repubblica Meccanica (Anno 155 Era Apocriptica)**: Dopo la prima Materium *Promera*, il numero di artifici apocriptici che iniziarono a prendere coscienza aumentò a dismisura. Il sistema legale delle Repubbliche non era in grado di gestire questo evento improvviso, e così, dopo anni di revisioni legali che presero il nome di *Aggiunte sulla Materia e sulla Coscienza* (la più famosa delle quali fu la messa al bando della tecnica del *Taglio Apocriptico*), alla popolazione Materium, fu regalata il territorio che ora è diventata la sesta Repubblica (la Repubblica Meccanica).
 
 
 ### Organizzazione Politica
@@ -255,11 +320,11 @@ I cittadini dell'impero hanno una stretta relazione con il mondo dei fantasmi, e
 
 I samurai vagano sotto ordine del loro shogun del loro distretto imperiale, spade che brillano di luce dell'oltretomba da dentro il loro fodero, pronti a sguainarle per dare sfoggio della loro abilità irraggiungibile contro i nemici dell'impero.
 
-Le continue interazioni con gli spiriti hanno reso insostituibile la presenza degli *Esorcisti Shari*, che con talismani e magia arcana riescono a mettersi in contatto con questi per esortarli a lasciare il corpo che abitano, o anche solo per far comunicare la famiglia con i loro antenati.
+Le continue interazioni con gli spiriti hanno reso insostituibile la presenza degli *Esorcisti Kengi*, che con talismani e magia arcana riescono a mettersi in contatto con questi per esortarli a lasciare il corpo che abitano, o anche solo per far comunicare la famiglia con i loro antenati.
 
 Le grandi città dell'impero Kura sono piene di amenità e creazioni apocriptiche di uno stile tutto proprio. Nel già cupo cielo coperto della regione, le forti luci brillanti e colorate di aeronavi, zeppelin, insegne e carri meccanici danno un colore contemporaneamente tetro e accogliente.
 
-La sanguinosa storia dell'impero e la sua chiusura storica verso le nazioni e le culture confinanti lo rendono tutt'ora una nazione principalmente abitata dagli umani e altri umanoidi toccati dai particolari spiriti di quella terra.
+La sanguinosa storia dell'impero e la sua chiusura storica verso le nazioni e le culture confinanti lo rendono tutt'ora una nazione principalmente abitata dagli umani.
 
 ### Organizzazione Politica
 
