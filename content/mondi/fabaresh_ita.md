@@ -224,10 +224,13 @@ Il mondo di Fabaresh è casa di innumerevoli stirpi, culture e popoli. Nonostant
 
 Gli Elfi sono magicamente collegati al territorio in cui vivono. Le uniche caratteristiche fisiche comuni a tutti gli elfi sono la loro grazia, la loro bellezza e le loro lunghe orecchie a punta.
 
-**Società degli Elfi**
-Gli *Elfi Urbani* sono nati e cresciuti in città di medie dimensioni, o nelle grandi metropoli tecnologiche di Fabaresh. Il loro aspetto è molto simile a quello di umani alti, aggraziati e belli, con le loro iconiche, lunghe orecchie a punta.
+### Società degli Elfi
 
-Gli *Elfi Silvani* sono nati e cresciuti in comunità a stretto contatto con la natura, molto spesso i boschi, e si portano con sé un marchio di questa vicinanza alla natura. Che sia pelle di corteccia, corna di cervo o di capra, piedi digitigradi o orecchie e coda da volpe, sono sempre e comunque alti umanoidi con lunghe orecchie a punta.
+Gli *Elfi Urbani* sono nati e cresciuti in città di medie dimensioni, o nelle grandi metropoli tecnologiche di Fabaresh. Il loro aspetto è molto simile a quello di umani alti, aggraziati e belli, con le loro iconiche, lunghe orecchie a punta. Gli elfi urbani spesso si scoprono detentori di diversi poteri TODO
+
+Gli *Elfi Silvani* sono nati e cresciuti in comunità a stretto contatto con la natura, molto spesso i boschi, e si portano con sé un marchio di questa vicinanza alla natura. Che sia pelle di corteccia, corna di cervo o di capra, piedi digitigradi o orecchie e coda da volpe, sono sempre e comunque alti umanoidi con lunghe orecchie a punta. Nonostante gli elfi silvani siano nati in comunità molto vicine alla natura, se non nella natura selvaggia stessa, l'instancabile marcia del progresso ha reso molto comune la vista di elfi silvani integrati nel caos cittadino persino nelle grandi metropoli.
+
+Gli *Elfi Artici* sono i più rari. Questi elfi dalla pelle che varia dal blu scuro all'azzurro pallido sono nati in territori con temperature talmente estreme da essere casa soltanto delle creature dei ghiacci più selvagge, la loro è una società estremamente isolata e profondamente religiosa. Le sacerdotesse dei templi del gelo delle loro cittadelle nell'estremo nord sono veri e propri leader politici, e l'edificio più ricco e decorato è proprio la chiesa alla *Dama della Brina*, una misteriosa divinità strettamente legata agli elfi artici.
 
 ### Lignaggi degli Elfi
 
