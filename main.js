@@ -95,7 +95,7 @@ async function loadSection (section) {
 }
 
 async function loadMarkdownPage (section, filename) {
-    const filePath = `${routes[section].content}/${filename}`;
+    const filePath = `${routes[section].content}/${filename}.md`;
     const contentElement = document.getElementById("content");
 
     try {
